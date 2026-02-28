@@ -20,9 +20,7 @@ A litte about me:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroalano&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pedroalano&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=pedroalano&theme=tokyonight-duo)
 
 ---
 
