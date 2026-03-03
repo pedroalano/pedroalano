@@ -3,7 +3,7 @@
 A litte about me:
 - Backend-focused Software Engineer  
 - Strong in system design and business logic  
-- Interested in AI-powered backend systems  
+- AI-powered backend systems  
 - Preparing for international opportunities  
 
 ---
