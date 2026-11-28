@@ -1,56 +1,34 @@
-## Hi there 👋
+# Pedro Alano
 
-A litte about me:
-- Backend-focused Software Engineer  
-- Strong in system design and business logic  
-- AI-powered backend systems
+**AI Full Stack Engineer** building LLM-powered products end to end (Python/FastAPI, TypeScript/NestJS, Next.js; RAG, agents, evals). Based in Brazil (UTC-3).
 
----
+## Stack
 
-## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## GitHub Stats
+## Featured AI projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pedroalano&theme=tokyonight-duo)
+- **[Career Forge v2](https://github.com/BorderlessCodingHub/career-forge-v2)** — AI-native learning platform (Next.js, FastAPI, PostgreSQL, LangChain, OpenAI) where I am the v2 product and engineering lead: adaptive diagnosis, an SSE-streamed roadmap forge, an LLM study-plan quality check, and a synthetic token-cost gate.
 
----
+- **[RAG Search Engine](https://github.com/pedroalano/rag-search-engine)** — Hybrid movie retrieval: BM25 plus sentence-transformer embeddings, fused with reciprocal rank fusion, optional cross-encoder rerank, precision/recall/F1 against a golden set, and Gemini answers.
 
-## Featured Project
+- **[Extrator de Dados](https://github.com/pedroalano/extrator-de-dados)** — FastAPI service for Brazilian NFe and NFS-e invoices (XML and PDF): cached XPath rules first, OpenAI or Gemini only for an unseen XML layout or a weak PDF, with mappings in MongoDB.
 
-### Personal Finance API
-
-Production-style backend with:
-- JWT Authentication
-- Categories, Transactions, Budgets
-- Dashboard aggregation
-- Swagger documentation
-- Unit & E2E tests
-- Dockerized setup
-
----
+- **[Personal Finance AI Learning Platform](https://github.com/pedroalano/personal-finance-ai-learning-platform)** — NestJS and Next.js monorepo (Prisma, PostgreSQL, pgvector) that stores a financial profile and module embeddings next to a learning-path model for personalized finance study.
 
 ## Contact
 
-LinkedIn: [https://linkedin.com/in/pedro-alano](https://www.linkedin.com/in/pedro-alano/?locale=en_US)
-<!--
-**pedroalano/pedroalano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/pedro-alano/)
